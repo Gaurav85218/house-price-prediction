@@ -1,5 +1,14 @@
 # 🏠 House Price Prediction using ETL & Machine Learning
 
+#### 🖼️ Project Demo
+
+### 🏠 House Price Prediction Web Interface
+
+This is the production-ready UI where users input housing details and get real-time predictions.
+
+![App Screenshot](screenshot.png)
+
+
 ## 📌 Project Overview
 
 This project predicts house prices using a complete **ETL pipeline** and **Machine Learning model**.
